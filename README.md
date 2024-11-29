@@ -11,6 +11,8 @@ This project is a full-stack web application developed using Java for the back-e
 - **Database**: MySQL (for storing and retrieving data)
 - **Frontend**: JavaScript (used for the client-side application)
 - **IDE**: IntelliJ IDEA Community Edition
+- **Testing**: Postman API
+
 - **Libraries & Frameworks**:
   - [Spring Boot](https://spring.io/projects/spring-boot) (for creating the Java back-end, if used)
   - [JDBC](https://docs.oracle.com/javase/7/docs/api/java/sql/DriverManager.html) (for connecting to MySQL, if applicable)
@@ -107,7 +109,9 @@ Feel free to fork the repository and submit pull requests for any improvements, 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
-
+## Deployment
+Deployment done using Railway and netlify
+```
 ### Key Sections in the `README.md`:
 1. **Technologies Used**: Specifies the tools and frameworks used in the project (Java, MySQL, JavaScript, IntelliJ IDEA, etc.).
 2. **Prerequisites**: Details the necessary software that must be installed before running the project.
